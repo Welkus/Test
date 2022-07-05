@@ -7,4 +7,7 @@ public class Main {
         System.out.println("Test git");
         System.out.println("New test");
     }
+
+    public void test(){
+    }
 }
